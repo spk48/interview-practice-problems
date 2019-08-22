@@ -1,0 +1,5 @@
+## Interestign Problems
+
+1. [The Two Egg Problem](https://medium.com/@khopsickle/2-eggs-and-100-floors-a032beb77aaa)
+
+2. 
